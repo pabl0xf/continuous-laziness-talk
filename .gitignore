@@ -1,0 +1,8 @@
+main/*.aux
+main/*.nav
+main/*.out
+main/*.log
+main/*.snm
+main/*.toc
+main/*.gz
+*/*.log
